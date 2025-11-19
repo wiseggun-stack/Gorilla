@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>나의 첫 웹사이트</title>
+</head>
+<body>
+  <h1>나의 첫 웹사이트</h1>
+  <p>여기는 내가 만든 웹페이지야!</p>
+  <button onclick="alert('버튼을 눌렀어!')">버튼 누르기</button>
+</body>
+</html>
